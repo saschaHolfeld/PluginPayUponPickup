@@ -6,5 +6,6 @@
     "type"              : "payment",
     "namespace"         : "PayUponPickup",
     "require"           : [],
-    "serviceProvider"   : "PayUponPickup\\Providers\\PayUponPickupServiceProvider"
+    "serviceProvider"   : "PayUponPickup\\Providers\\PayUponPickupServiceProvider",
+    "shortDescription" : {"de": "","en": ""}
 }
